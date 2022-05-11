@@ -10,5 +10,8 @@
  * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
  * 512 bytes of OTP memory.
  * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+# USES
+
 # 
+
 
