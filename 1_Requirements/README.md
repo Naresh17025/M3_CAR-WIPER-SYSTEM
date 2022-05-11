@@ -12,6 +12,7 @@
  * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
 # USES
 
-# 
+# 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
+
 
 
