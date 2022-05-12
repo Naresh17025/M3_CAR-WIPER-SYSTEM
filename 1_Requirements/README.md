@@ -23,6 +23,15 @@ To keep the windscreen clean enough to give adequate view at all times.
 The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 # WHO
 Mark Anderson invented on 1902
+# HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1 | car wiper using STM32F407VG | Implemented |
+| HL2 | Led bulb blinking | Implemented |
+# LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HLL1 | 
 ## SWOT ANALYSIS
 # STRENGTH
 * Low Budget
