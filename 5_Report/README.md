@@ -51,3 +51,18 @@ The operational speed of a vehicle wiper is controlled by a wiper speed control 
 * Good Reputation
 * High Bargaining Power Supliers
 * Big Influence on the Market
+# WEAKNESS
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Week Focus on Process Innovations
+# OPPRONUTIES
+* Emerging New Markets 
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+# THREATS
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
