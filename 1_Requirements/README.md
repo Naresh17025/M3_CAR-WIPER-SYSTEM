@@ -4,6 +4,7 @@
 * STM32F407VG MICROCONTROLLER BOARD
 ## DESCRIPTION 
 # STM32F407VG
+* The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded 
 # FEATURES OF STM32F407VG MICROCONTROLLER
  * Up to 1 Mbyte of Flash memory.
  * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
