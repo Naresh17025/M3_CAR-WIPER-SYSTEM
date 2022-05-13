@@ -31,7 +31,7 @@ In this project, there were two innovations reviewed as the literature review. T
 The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
 # WHY
 * To keep the windscreen clean enough to give adequate view at all times.
-#WHEN
+# WHEN
 * The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 # WHO
 * A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
